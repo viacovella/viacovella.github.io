@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : 
   avatar           : https://pbs.twimg.com/profile_images/956792499422539776/XlL3I2a3_400x400.jpg
   bio              : "Full-stack Open Data technician for Think Open at CIMeC - Center for Mind and Brain Science"
-  location         : "Trento, Italy"
-  employer         : "The University of Trento"
+  location         : "The University of Trento, Trento, Italy"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3Fc8JJQAAAAJ&hl=it"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/viacovella"
+  github           : "viacovella"
   google_plus      :
   keybase          :
   instagram        :
