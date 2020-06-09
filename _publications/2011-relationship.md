@@ -3,7 +3,7 @@ title: "The relationship between BOLD signal and autonomic nervous system functi
 collection: publications
 permalink: /publication/2011-relationship.md
 excerpt: 'BOLD / ANS relationship.'
-date: 2011
+date: 2011-12-31
 venue: 'Magnetic Resonance Imaging'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/21543181/'
 citation: 'V. Iacovella, U. Hasson
