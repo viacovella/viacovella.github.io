@@ -10,12 +10,18 @@ redirect_from:
 
 I currently work as Open Data Technician for [CIMeC - Center for Mind / Brain Science at the University of Trento](https://www.cimec.unitn.it/en/1025/open-science).
 
-# Think Open at Rovereto Workshop
-## First edition - July 10-11 2020
+# Professional interests
+## Open Science at CIMeC
+[Think Open @ CIMeC](https://www.cimec.unitn.it/en/1025/open-science) is an initiative whose goal is to build, maintain and keep updated a virtual space, compliant with latest privacy and intellectual property rules, where researchers can share research products coming from every step of the research routine, i.e.: preliminary procedures and experimental setup, acquisition planning, data coming from healthy volunteers or patients, data analysis strategies and code, scientific publications.
+## Italian Reproducibility Network
+In 2021 I contributed to establish [ITRN - Italian Reproducibility Network](www.itrn.org) is a peer led consortium promoting, supporting and guarding Open Science practices in scientific research.
+## Comunità Italiana dei Data Stewards
+Since November 2023 I am an active member of the [Italian Data Steward community](https://open-science.it/en/-/data-steward-unite-breve-resoconto-del-kick-off-meeting-della-comunit%C3%A0-italiana-dei-data-steward). Its goal is, among the other things, to establish a shared virtual space for discussions and networking for research data managers professionals.
 
-I am part of the scientific organization of the first edition of [Think Open at Rovereto virtual Workshop](https://event.unitn.it/think-open).
-
-The goal of Think Open Rovereto workshop is to bring together people from different disciplines and backgrounds to discuss the latest insights related to open science, with a special emphasis on cognitive neuroscience.
-This year we individuated three main areas: replication and reproducibility; open access; standard ways to arrange, analyze and share neuroimaging data.
-* [Registration](https://event.unitn.it/think-open/#registration) is free but mandatory until June 30th 2020. There are currently about 130 places still available.
-* Follow the hashtag [#TORW2020](https://twitter.com/hashtag/TORW2020) on Twitter for news and insights about the program.
+# Project drafts
+## [Repoistituzionali](https://github.com/viacovella/repoistituzionali)
+An inquiry about if and how Italian research institutions have an institutional repository for research data
+## [Fill-admin-template](https://github.com/viacovella/fill-admin-templates)
+Google Script for filling a template document using information contained in a spreadsheet cell
+## [Flask-Sandbox](https://github.com/viacovella/flask-sandbox)
+A sandbox for a single page application showing submission ranks
