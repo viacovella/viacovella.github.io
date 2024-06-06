@@ -6,5 +6,5 @@ excerpt: 'The wide adoption of online media for scholarly purposes triggered a r
 date: 2022-09-20
 venue: 'AboutOpen'
 paperurl: 'https://doi.org/10.33393/ao.2022.2468'
-citation: 'Iacovella, V. (2022). A roadmap for building your scientific reputation on social media. AboutOpen, 9(1), 87–91. https://doi.org/10.33393/ao.2022.2468'
+citation: 'Iacovella, V. (2022). A roadmap for building your scientific reputation on social media. AboutOpen, 9(1), 87–91.'
 ---
